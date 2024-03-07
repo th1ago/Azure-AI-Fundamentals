@@ -1,33 +1,31 @@
-# Título do Projeto
-
-Explorando automacao Machine Learning no Azure Machine Learning
+# Explorando automacao Machine Learning no Azure Machine Learning
 
 > [!NOTE]
 > O passo a passo é a partir da criação do workspace, não antes disso.
 
 
 Criando uma workspace
-![Criando](./src/Novo_ML_automatizado.png)
-![Treinamento](./src/1_treinamento.png)
-![ConfigBasica](./src/2_config_basica.png)
-![TipoDados](./src/3_tipo_dados.png)
-![Criar](./src/3.1_criar.png)
-![ConfigTarefas](./src/4_config_tarefas.png)
-![Gerenciar](./src/4.1_gerenciar.png)
-![ConfigTarefas1](./src/4__1_config_tarefas.png)
-![Computacao](./src/5_computacao.png)
+![Criando](./assets/Novo_ML_automatizado.png)
+![Treinamento](./assets/1_treinamento.png)
+![ConfigBasica](./assets/2_config_basica.png)
+![TipoDados](./assets/3_tipo_dados.png)
+![Criar](./assets/3.1_criar.png)
+![ConfigTarefas](./assets/4_config_tarefas.png)
+![Gerenciar](./assets/4.1_gerenciar.png)
+![ConfigTarefas1](./assets/4__1_config_tarefas.png)
+![Computacao](./assets/5_computacao.png)
 
 > [!IMPORTANT]
 > Esse processo pode demorar um pouco.
-![Examinar](./src/6_examinar.png)
+![Examinar](./assets/6_examinar.png)
 
 
 Pipeline com os processos 
-![Examinar](./src/pipeline.png)
+![Examinar](./assets/pipeline.png)
 
 Teste de modelo
 Nessa etapa eu tive que criar meu modelo, não sei por que ele não criou
-![Examinar](./src/modelos.png)
+![Examinar](./assets/modelos.png)
 
 ## Deploy do servico
 
